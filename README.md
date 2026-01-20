@@ -1,64 +1,57 @@
-# Task 1 – Web Development Internship
+# Task 1 – Web Development
 
-This repository contains **Task 1** of my **Web Development Internship**.  
-The task is to create a simple and basic web page using **HTML, CSS, and JavaScript**.
+This repository contains **Task 1** of my Web Development Internship.
 
----
-
-## 📌 Project Description
-
-This is a single-page website that demonstrates:
-- Basic HTML structure
-- Styling using CSS
-- Simple interactivity using JavaScript (button click alert)
-
-The purpose of this task is to understand the fundamentals of front-end web development.
+In this task, I created a simple web page using basic front-end technologies.  
+The goal of this task was to understand how HTML, CSS, and JavaScript work together to build a web page.
 
 ---
 
-## 🛠️ Technologies Used
+## 📄 About the Project
 
-- **HTML** – for structuring the web page  
+This is a basic single-page website that includes:
+- A heading and text content
+- An image displayed on the page
+- A button that shows an alert message when clicked
+- A link to my LinkedIn profile
+
+This project helped me understand the structure of a webpage and how styling and interactivity are added.
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML** – for creating the structure of the webpage  
 - **CSS** – for styling and layout  
-- **JavaScript** – for basic interactivity  
+- **JavaScript** – for basic user interaction  
 
 ---
 
-## 📂 Project Files
+## 📁 Files Included
 
-- `index.html` – Main HTML file  
+- `index.html` – main HTML file  
 - `style.css` – CSS file for styling  
 - `script.js` – JavaScript file for functionality  
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Website
 
-You can view the live website here:  
-👉 **GitHub Pages Link:**  
-()
-
----
-
-## ✅ Task Features
-
-- Clean and simple layout  
-- Image displayed on the webpage  
-- Button with JavaScript alert message  
-- Beginner-friendly implementation  
+The project is live and can be viewed here:  
+👉 https://deepti0728.github.io/task-1-of-web-development/
 
 ---
 
-## 📚 Learning Outcome
+## 📘 What I Learned
 
-Through this task, I learned:
-- How to structure a basic HTML page  
+From this task, I learned:
+- How to create and structure a basic HTML page  
 - How to link external CSS and JavaScript files  
-- How to use JavaScript for user interaction  
-- How to deploy a project using GitHub Pages  
+- How to use JavaScript for simple interactions  
+- How to host a project using GitHub Pages  
 
 ---
 
-## 🙌 Acknowledgement
+## ✅ Task Status
 
-Thanks to the internship program for providing this opportunity to learn and practice web development basics.
+Task 1 completed successfully.
